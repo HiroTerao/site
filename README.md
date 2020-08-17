@@ -1,5 +1,5 @@
 ## 📲アプリ名:シューティングゲーム
-#### 🌐URL  : https://actiongame-19950817.herokuapp.com/
+#### 🌐URL  : https://portfolio-19950817.herokuapp.com/
 #### 📱プレイ動画  : [![Image from Gyazo](https://i.gyazo.com/7260a95de6ff492ed49bc0597faf9e93.gif)](https://gyazo.com/7260a95de6ff492ed49bc0597faf9e93)
 
 
